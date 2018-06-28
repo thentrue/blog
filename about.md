@@ -8,10 +8,14 @@ permalink: /about/
 
 ### More Information
 
-lofer:[click/点击](thentrue.lofter.com)
-instagram:[click/点击](https://www.instagram.com/thentrue001/)
-wechat MP:thentrue
-bilibili:[click/点击](https://space.bilibili.com/5041218/#/)
+wechat MP: thentrue
+
+bilibili:  [click/点击](https://space.bilibili.com/5041218/#/)
+
+lofer:     [click/点击](http://thentrue.lofter.com)
+
+instagram: [click/点击](https://www.instagram.com/thentrue001/)
+
 
 ### Contact me
 
