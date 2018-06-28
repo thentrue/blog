@@ -49,12 +49,16 @@ comments: true
 
 ## 链接
 [文本](网站链接)
+
 `[文本](网站链接)`
+
 [文本](http://example.com/ "标题")
+
 `[文本](http://example.com/ "标题")`
 
 ## 图片
 ![](https://avatars2.githubusercontent.com/u/40190810?s=96&v=4)
+
 `![](https://avatars2.githubusercontent.com/u/40190810?s=96&v=4)`
 
 # 显示链接中带括号的图片
@@ -64,13 +68,17 @@ comments: true
 # 引用
 
 >文本
+
 `>文本`
 
 # 斜体和粗体
 
 *斜体*
+
 `*斜体*`
+
 **粗体**
+
 `**粗体**`
 
 # 代码引用
