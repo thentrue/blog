@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+三尺微命，一介书生。
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+lofer:[click/点击](thentrue.lofter.com)
+instagram:[click/点击](https://www.instagram.com/thentrue001/)
+wechat MP:thentrue
+bilibili:[click/点击](https://space.bilibili.com/5041218/#/)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thentrue@163.com](mailto:email@domain.com)
