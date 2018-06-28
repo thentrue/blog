@@ -19,4 +19,18 @@ https://thentrue.github.io/blog/
 
 ### Contact me
 
-[thentrue@163.com](mailto:email@domain.com)
+[thentrue@163.com](mailto:thentrue@163.com)
+
+### post
+
+```
+---
+layout: post
+title: "修改title"
+date:   修改year-month-day
+categories: Archive
+tags: [修改tag1, 修改tag2]
+description: 修改sth。
+comments: true
+---
+```
