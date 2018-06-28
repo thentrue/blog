@@ -19,4 +19,4 @@ permalink: /about/
 
 ### Contact me
 
-[thentrue@163.com](mailto:email@domain.com)
+[thentrue@163.com](mailto:thentrue@163.com)
