@@ -1,10 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
+About
 ---
 
 https://thentrue.github.io/blog/
+
 三尺微命，一介书生。
 
 ### More Information
