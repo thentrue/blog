@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Markdown新手指南"
+date:   2018-06-28
+categories: Archive
 tags: [Markdown, 指南]
+description: 新手指南哦。
 comments: true
 ---
 
