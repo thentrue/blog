@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "喵：禽流感时期的爱情"
-date:   修改year-month-day
+date:   2017-03-06
 categories: Archive
 tags: [小说, 上海]
 description: 喵：禽流感时期的爱情。
