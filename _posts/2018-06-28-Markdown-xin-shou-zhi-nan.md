@@ -4,7 +4,7 @@ title: "Markdown新手指南"
 date:   2018-06-28
 categories: Archive
 tags: [Markdown, 指南]
-description: 新手指南哦。
+description: 关于Markdown的一份新手指南，大部分来源于网络。
 comments: true
 ---
 
