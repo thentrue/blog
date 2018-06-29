@@ -4,11 +4,11 @@ title: "君问莫失莫忘何所谓？"
 date:   2017-09-18
 categories: Archive
 tags: [德国, 生活]
-description: 君问莫失莫忘何所谓？。
+description: 夫天地者，万物之逆旅也；光阴者，百代之过客也。而浮生若梦，为欢几何？
 comments: true
 ---
 
-#### 夫天地者，万物之逆旅也；光阴者，百代之过客也。而浮生若梦，为欢几何？
+
 
 ### 一
    
