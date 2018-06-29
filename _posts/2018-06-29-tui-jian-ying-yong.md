@@ -1,3 +1,13 @@
+---
+layout: post
+title: "你可能没有玩过的超好用优质手机/电脑应用"
+date:   2018-06-29
+categories: Archive
+tags: [手机, 电脑]
+description: 给你推荐一些好用的手机、电脑、网站、微信小程序。
+comments: true
+---
+
 ### **1.Apps**
 
 
@@ -99,3 +109,23 @@ PDF：https://smallpdf.com/
 #### **坚果云：**
 *[内购/无广告]*
 一个可以同步电脑手机多平台同步的网盘，稳定速度快，适合放一些工作文档，良心应用。
+
+----------
+
+
+三尺微命，一介书生。
+
+### More Information
+
+- wechat: [点击](http://mp.weixin.qq.com/s?__biz=MzIxMTM4NTM0Nw==&mid=100000158&idx=1&sn=12798a7383a2b5033d79bb485d12d381&chksm=17576cf22020e5e4641ae4716701ce117e87418e7cb019c6f026a1a2457840164267687ebff3#rd)
+
+- bilibili: [点击](https://space.bilibili.com/5041218/#/)
+
+- lofer: [点击](http://thentrue.lofter.com)
+
+- instagram: [点击](https://www.instagram.com/thentrue001/)
+
+
+### Contact me
+
+[thentrue@163.com](mailto:thentrue@163.com)
