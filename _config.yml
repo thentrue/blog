@@ -27,7 +27,7 @@ navigation:
   - name: 存档
     url: /archive
   - name: 标签
-    url: /tags.html
+    url: /tags
   - name: 主题
     url: https://github.com/AWEEKJ/kiko-now
 
