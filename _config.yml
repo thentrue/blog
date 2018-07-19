@@ -38,12 +38,12 @@ paginate: 5
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:
+  email:thentrue@163.com
   facebook:
   flickr:
   github: https://thentrue.github.io/blog
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
+  instagram:thentrue001
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -64,7 +64,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://thentrue.github.io/blog
+url: https://thentrue.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
