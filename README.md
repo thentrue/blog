@@ -2,7 +2,7 @@
 About
 ---
 
-https://thentrue.github.io/blog/
+https://thentrue.github.io/
 
 三尺微命，一介书生。
 
