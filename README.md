@@ -8,7 +8,7 @@ thentrue.com
 
 [![face-about.png](https://i.loli.net/2018/07/20/5b5189a0488a6.png)](https://i.loli.net/2018/07/20/5b5189a0488a6.png)
 
-[wechat](http://mp.weixin.qq.com/s?__biz=MzIxMTM4NTM0Nw==&mid=100000158&idx=1&sn=12798a7383a2b5033d79bb485d12d381&chksm=17576cf22020e5e4641ae4716701ce117e87418e7cb019c6f026a1a2457840164267687ebff3#rd)
+[wechat](http://mp.weixin.qq.com/s?__biz=MzIxMTM4NTM0Nw==&mid=100000449&idx=1&sn=0b1c290b2253f7c71fbcf8cafd946a3f&chksm=17576fad2020e6bba7ce49ba5a5e8affabb8ffb9a37afe25a4d070d3abc88b65b5f004da6fc3#rd)
 
 [bilibili](https://space.bilibili.com/5041218/#/)
 
@@ -41,7 +41,7 @@ comments: true
 
 [![face-about.png](https://i.loli.net/2018/07/20/5b5189a0488a6.png)](https://i.loli.net/2018/07/20/5b5189a0488a6.png)
 
-[wechat](http://mp.weixin.qq.com/s?__biz=MzIxMTM4NTM0Nw==&mid=100000158&idx=1&sn=12798a7383a2b5033d79bb485d12d381&chksm=17576cf22020e5e4641ae4716701ce117e87418e7cb019c6f026a1a2457840164267687ebff3#rd)
+[wechat](http://mp.weixin.qq.com/s?__biz=MzIxMTM4NTM0Nw==&mid=100000449&idx=1&sn=0b1c290b2253f7c71fbcf8cafd946a3f&chksm=17576fad2020e6bba7ce49ba5a5e8affabb8ffb9a37afe25a4d070d3abc88b65b5f004da6fc3#rd)
 
 [bilibili](https://space.bilibili.com/5041218/#/)
 
