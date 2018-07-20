@@ -38,12 +38,12 @@ paginate: 5
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:thentrue@163.com
+  email: thentrue@163.com
   facebook:
   flickr:
   github: https://www.github.com/thentrue/thentrue.github.io/
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:thentrue001
+  instagram: thentrue001
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
