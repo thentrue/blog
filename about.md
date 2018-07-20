@@ -8,13 +8,15 @@ permalink: /about/
 
 ### More Information
 
-- wechat: [click/点击](http://mp.weixin.qq.com/s?__biz=MzIxMTM4NTM0Nw==&mid=100000158&idx=1&sn=12798a7383a2b5033d79bb485d12d381&chksm=17576cf22020e5e4641ae4716701ce117e87418e7cb019c6f026a1a2457840164267687ebff3#rd)
+![ABOUT.jpg](https://i.loli.net/2018/07/20/5b518614ba79d.jpg)
 
-- bilibili: [click/点击](https://space.bilibili.com/5041218/#/)
+[weichat](http://mp.weixin.qq.com/s?__biz=MzIxMTM4NTM0Nw==&mid=100000158&idx=1&sn=12798a7383a2b5033d79bb485d12d381&chksm=17576cf22020e5e4641ae4716701ce117e87418e7cb019c6f026a1a2457840164267687ebff3#rd)
 
-- lofer: [click/点击](http://thentrue.lofter.com)
+[bilibili](https://space.bilibili.com/5041218/#/)
 
-- instagram: [click/点击](https://www.instagram.com/thentrue001/)
+[lofter](http://thentrue.lofter.com)
+
+[insyagram](https://www.instagram.com/thentrue001/)
 
 
 ### Contact me
