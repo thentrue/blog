@@ -32,4 +32,4 @@ permalink: /about/
 
 ![QQ浏览器截图20180817161828.png](https://i.loli.net/2018/08/17/5b76843f3c0a4.png)
 
-<iframe src="http://www.nicetool.net/embed/gobang.html" width="100%" height="450px;" scrolling="no" style="border:0px;"></iframe>
+
