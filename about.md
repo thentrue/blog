@@ -22,8 +22,12 @@ permalink: /about/
 
 [wechat](http://mp.weixin.qq.com/s?__biz=MzIxMTM4NTM0Nw==&mid=100000449&idx=1&sn=0b1c290b2253f7c71fbcf8cafd946a3f&chksm=17576fad2020e6bba7ce49ba5a5e8affabb8ffb9a37afe25a4d070d3abc88b65b5f004da6fc3#rd)丨[bilibili](https://space.bilibili.com/5041218/#/)丨[lofter](http://thentrue.lofter.com)丨[instagram](https://www.instagram.com/thentrue001/)
 
-[![face-about.png](https://i.loli.net/2018/07/20/5b5189a0488a6.png)](https://i.loli.net/2018/07/20/5b5189a0488a6.png)
-
 ### Contact me
 
 [me@thentrue.com](mailto:me@thentrue.com)
+
+[![face-about.png](https://i.loli.net/2018/07/20/5b5189a0488a6.png)](https://i.loli.net/2018/07/20/5b5189a0488a6.png)
+
+关于本站
+
+![QQ浏览器截图20180817161828.png](https://i.loli.net/2018/08/17/5b76843f3c0a4.png)
