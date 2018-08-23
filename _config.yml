@@ -20,6 +20,8 @@ avatar: https://avatars1.githubusercontent.com/u/40190810?s=460&v=4
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
+  - name: 导航
+    url: http://thentrue.com
   - name: 首页
     url: /
   - name: 关于
@@ -30,6 +32,7 @@ navigation:
     url: /tags
   - name: 主题
     url: https://github.com/AWEEKJ/kiko-now
+
 
 # Pagination
 paginate: 5
@@ -43,7 +46,7 @@ footer-links:
   flickr:
   github: thentrue
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram: thentrue001
+  instagram:
   linkedin:
   pinterest:
   rss: rss
@@ -64,7 +67,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://thentrue.github.io/
+url: https://thentrue.com/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
