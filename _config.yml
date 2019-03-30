@@ -21,7 +21,7 @@ avatar: https://avatars1.githubusercontent.com/u/40190810?s=460&v=4
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: 导航
-    url: http://thentrue.com
+    url: http://thentrue.github.io
   - name: 首页
     url: /
   - name: 关于
