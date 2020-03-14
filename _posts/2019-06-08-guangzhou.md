@@ -3,7 +3,7 @@
 ---
 layout: post
 title: "修改title"
-date:   修改year-month-day
+date:   2019-06-08
 categories: Archive
 tags: [修改tag1, 修改tag2]
 description: 修改sth。
